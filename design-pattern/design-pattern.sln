@@ -3,9 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{E7B66F6A-8D2C-49D9-8B8F-3413DE8899C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{069A53B7-FB99-4F62-8039-C66B511BA96D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{65444B88-7F38-40C2-953F-C2A337EB1974}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "design-pattern.singleton", "Creational\design-pattern.singleton\design-pattern.singleton.csproj", "{5A00462A-3843-49F3-AB0E-AB73F9F8A92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-pattern.factory-method", "Creational\factory-method\design-pattern.factory-method\design-pattern.factory-method.csproj", "{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A00462A-3843-49F3-AB0E-AB73F9F8A92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A00462A-3843-49F3-AB0E-AB73F9F8A92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A00462A-3843-49F3-AB0E-AB73F9F8A92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A00462A-3843-49F3-AB0E-AB73F9F8A92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A00462A-3843-49F3-AB0E-AB73F9F8A92A} = {E7B66F6A-8D2C-49D9-8B8F-3413DE8899C5}
+		{48BB4F73-CBF8-4AA1-B3D3-5A130F1F26E2} = {E7B66F6A-8D2C-49D9-8B8F-3413DE8899C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAA9777A-0835-435B-84C4-97400992F8DC}
