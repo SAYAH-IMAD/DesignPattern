@@ -1,0 +1,12 @@
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\bin\Debug\net6.0\design-pattern.factory-abstract.deps.json
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\bin\Debug\net6.0\design-pattern.factory-abstract.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\bin\Debug\net6.0\design-pattern.factory-abstract.pdb
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.csproj.AssemblyReference.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.AssemblyInfoInputs.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.AssemblyInfo.cs
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.csproj.CoreCompileInputs.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\refint\design-pattern.factory-abstract.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\design-pattern.factory-abstract.pdb
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.factory-abstract\obj\Debug\net6.0\ref\design-pattern.factory-abstract.dll
