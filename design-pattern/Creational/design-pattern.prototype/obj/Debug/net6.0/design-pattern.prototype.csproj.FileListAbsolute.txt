@@ -1,0 +1,12 @@
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\bin\Debug\net6.0\design-pattern.prototype.deps.json
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\bin\Debug\net6.0\design-pattern.prototype.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\bin\Debug\net6.0\design-pattern.prototype.pdb
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.csproj.AssemblyReference.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.AssemblyInfoInputs.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.AssemblyInfo.cs
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.csproj.CoreCompileInputs.cache
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\refint\design-pattern.prototype.dll
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\design-pattern.prototype.pdb
+C:\Users\imads\source\repos\SAYAH-IMAD\DesignPattern\design-pattern\Creational\design-pattern.prototype\obj\Debug\net6.0\ref\design-pattern.prototype.dll
